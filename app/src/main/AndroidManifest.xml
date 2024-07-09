@@ -19,6 +19,7 @@
         <activity
             android:name=".AddingListStateActivity"
             android:exported="true">
+
         </activity>
         <activity
             android:name=".ProfileCardListActivity"
